@@ -10,6 +10,7 @@ Due to privacy reason, I cannot put the detail on public space. However, they pr
 # Method
 We like to analyze the data from different factors including time, employee, employee group, station. We tried to group the data by these factors to see if there is any correlation with the lost time.
 ## Time
-We analyze time factors in 4 ways respectively. 
+We analyze time factors in 5 ways respectively. 
 1. Shift
 In this aspect, we divided time by evening shift/ morning shift/ Night shift.
+
